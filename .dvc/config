@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /var/folders/z3/30b2lqcn3vx2zfmwz2111d4w0000gn/T/campusx-storage
